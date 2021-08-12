@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+a {
+    float: right;
+    font-size: 20px;
+    background: black;
+    color: white;
+}
+.heading{
+    font-size: 23px;
+}
